@@ -1,5 +1,9 @@
 # README
 
+# https://www.railstutorial.org/book/beginning#sec-what_good_does_git_do_you
+# bu repoda kitabındaki antrenmanları yaparak ilerliyorum
+# secondBranch'i merge ettim. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
